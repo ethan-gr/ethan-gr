@@ -14,7 +14,6 @@
 
 #### Languages I've worked with
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 #### Tools I've worked with
@@ -28,6 +27,7 @@
 
 
 #### Languages I'm willing to learn in the near future
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Julia](https://img.shields.io/badge/-Julia-000000?style=?style=for-the-badge&logo=julia)
 ![Go](https://img.shields.io/badge/-Go-000000?style=?style=for-the-badge&logo=Go)
 
