@@ -2,27 +2,32 @@
 <img align="right" alt="GIF" height="160px" src="https://cdn.pixabay.com/animation/2022/10/31/12/27/12-27-35-711_512.gif" />
 
 ## About me:
-- :seedling: I'm an student in genomic sciences at [CCG UNAM](https://www.ccg.unam.mx/)
+- :seedling: I'm an student in genomic sciences at [LCG](https://www.lcg.unam.mx/) [CCG UNAM](https://www.ccg.unam.mx/)
 - :test_tube: I'm currently learning and working at [Freyre Lab](http://freyrelab.org/)
 - :telescope: I’m interested in, systems biology, synthetic biology, machine learning, etc.
 - 💞️ I’m looking to collaborate on whatever I could be of help.
 
 ---
 #### To get in touch:
-[![mail: ethangr](https://img.shields.io/badge/ethangr@lcg.unam.mx--grey)](ethangr@lcg.unam.mx)
-[![Twitter: ethangr](https://img.shields.io/twitter/url?label=Ethan_M_Galindo&style=social&url=https%3A%2F%2Ftw)](https://twitter.com/Ethan_M_Galindo)
+[![mail: ethangr](https://img.shields.io/badge/-ethangr@lcg.unam.mx-000000?style=flat&logo=gmail)](ethangr@lcg.unam.mx)
+[![Twitter: @Ethan_M_Galindo](https://img.shields.io/badge/-Ethan%20M.%20Galindo%20Raya-000000?style=flat&logo=twitter)](https://twitter.com/Ethan_M_Galindo)
 
 #### Languages I've worked with
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=coursera)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
 
 #### Tools I've worked with
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=blueviol)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Powershell](http://img.shields.io/badge/-Powershell-000000?style=flat&logo=powershell&logoColor=ffffff)
+![Conda](https://img.shields.io/badge/-Conda-000000?style=flat&logo=Anaconda)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter)
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=blue)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000000?style=flat&logo=LaTeX&logoColor=008080)
+![Obsidian](https://img.shields.io/badge/-Obsidian-000000?style=flat&logo=obsidian&logoColor=483699)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
 ![Windows](http://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff)
 
 
