@@ -2,15 +2,13 @@
 <img align="right" alt="GIF" height="160px" src="https://cdn.pixabay.com/animation/2022/10/31/12/27/12-27-35-711_512.gif" />
 
 ## About me:
-- :seedling: I'm an student in genomic sciences at [LCG](https://www.lcg.unam.mx/) [CCG UNAM](https://www.ccg.unam.mx/)
-- :test_tube: I'm currently learning and working at [Freyre Lab](http://freyrelab.org/)
+- :seedling: I'm an student in genomic sciences at [LCG](https://www.lcg.unam.mx/) [CCG, UNAM](https://www.ccg.unam.mx/)
+- :test_tube: I'm currently learning at [Freyre Lab](http://freyrelab.org/)
 - :telescope: I’m interested in, systems biology, synthetic biology, machine learning, etc.
 - 💞️ I’m looking to collaborate on whatever I could be of help.
+- 🏹 ethangr@lcg.unam.mx to get in touch: 
 
 ---
-#### To get in touch:
-[![mail: ethangr](https://img.shields.io/badge/-ethangr@lcg.unam.mx-000000?style=flat&logo=gmail)](ethangr@lcg.unam.mx)
-[![Twitter: @Ethan_M_Galindo](https://img.shields.io/badge/-Ethan%20M.%20Galindo%20Raya-000000?style=flat&logo=twitter)](https://twitter.com/Ethan_M_Galindo)
 
 #### Languages I've worked with
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=coursera)
