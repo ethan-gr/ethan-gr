@@ -13,6 +13,7 @@
 #### Languages I've worked with
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=coursera)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue)
 
 #### Tools I've worked with
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
