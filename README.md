@@ -6,7 +6,7 @@
 - :test_tube: I'm currently research intern at [Freyre Lab](http://freyrelab.org/)
 - :telescope: I’m interested in, systems biology, synthetic biology, machine learning, etc.
 - 💞️ I’m willing to collaborate on whatever I could be of help.
-- 🏹 mailto: ethangr@lcg.unam.mx to get in touch
+- 🏹 ethangr@lcg.unam.mx to get in touch
 
 ---
 
