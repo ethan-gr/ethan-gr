@@ -2,10 +2,10 @@
 <img align="right" alt="GIF" height="160px" src="https://cdn.pixabay.com/animation/2022/10/31/12/27/12-27-35-711_512.gif" />
 
 ## About me:
-- :seedling: I'm an student in genomic sciences at [LCG](https://www.lcg.unam.mx/) [CCG, UNAM](https://www.ccg.unam.mx/)
-- :test_tube: I'm currently learning at [Freyre Lab](http://freyrelab.org/)
+- :seedling: I'm an undergraduate student in genomic sciences at [LCG](https://www.lcg.unam.mx/) [CCG, UNAM](https://www.ccg.unam.mx/)
+- :test_tube: I'm currently research intern at [Freyre Lab](http://freyrelab.org/)
 - :telescope: I’m interested in, systems biology, synthetic biology, machine learning, etc.
-- 💞️ I’m looking to collaborate on whatever I could be of help.
+- 💞️ I’m willing to collaborate on whatever I could be of help.
 - 🏹 ethangr@lcg.unam.mx to get in touch: 
 
 ---
